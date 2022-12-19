@@ -1,7 +1,7 @@
 //Реализовать алгоритм сортировки слиянием
 //Естественное неймановское слияние
 //Прямое слияние Боуза-Нельсона
-
+//********************
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
