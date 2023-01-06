@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/seminar5/DzSeminar5/DzSeminar5.iml" filepath="$PROJECT_DIR$/seminar5/DzSeminar5/DzSeminar5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar2/dz_sem2/dz_s2/dz_s2.iml" filepath="$PROJECT_DIR$/seminar2/dz_sem2/dz_s2/dz_s2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar4/dz_sem4/dz_sem4.iml" filepath="$PROJECT_DIR$/seminar4/dz_sem4/dz_sem4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5/dz_sem5/dz_sem5.iml" filepath="$PROJECT_DIR$/seminar5/dz_sem5/dz_sem5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5/seminar/seminar.iml" filepath="$PROJECT_DIR$/seminar5/seminar/seminar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5/seminar5.iml" filepath="$PROJECT_DIR$/seminar5/seminar5.iml" />
+    </modules>
+  </component>
+</project>

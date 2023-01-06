@@ -1,0 +1,1 @@
+select * from students where name Ivanov AND country Russia AND city Moscow
